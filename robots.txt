@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bryankennedy-castro.github.io/lara-pagatpat/sitemap.xml
